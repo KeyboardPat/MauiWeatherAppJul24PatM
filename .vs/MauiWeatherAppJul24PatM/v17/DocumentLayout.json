@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|c:\\users\\patri\\source\\repos\\mauiweatherappjul24patm\\mauiweatherappjul24patm\\models\\apimodels\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|solutionrelative:mauiweatherappjul24patm\\models\\apimodels\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|c:\\users\\patri\\source\\repos\\mauiweatherappjul24patm\\mauiweatherappjul24patm\\pages\\weatherinfopage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|solutionrelative:mauiweatherappjul24patm\\pages\\weatherinfopage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|c:\\users\\patri\\source\\repos\\mauiweatherappjul24patm\\mauiweatherappjul24patm\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|solutionrelative:mauiweatherappjul24patm\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|c:\\users\\patri\\source\\repos\\mauiweatherappjul24patm\\mauiweatherappjul24patm\\models\\viewmodels\\weatherinfopageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|solutionrelative:mauiweatherappjul24patm\\models\\viewmodels\\weatherinfopageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|c:\\users\\patri\\source\\repos\\mauiweatherappjul24patm\\mauiweatherappjul24patm\\pages\\weatherinfopage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|solutionrelative:mauiweatherappjul24patm\\pages\\weatherinfopage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|c:\\users\\patri\\source\\repos\\mauiweatherappjul24patm\\mauiweatherappjul24patm\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0784F265-9E4D-49AF-AB81-D7E2BDC30815}|MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM.csproj|solutionrelative:mauiweatherappjul24patm\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Constants.cs",
+              "RelativeDocumentMoniker": "MauiWeatherAppJul24PatM\\Constants.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Constants.cs",
+              "RelativeToolTip": "MauiWeatherAppJul24PatM\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:43:48.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherInfoPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Pages\\WeatherInfoPage1.xaml",
+              "RelativeDocumentMoniker": "MauiWeatherAppJul24PatM\\Pages\\WeatherInfoPage1.xaml",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Pages\\WeatherInfoPage1.xaml",
+              "RelativeToolTip": "MauiWeatherAppJul24PatM\\Pages\\WeatherInfoPage1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-31T03:01:51.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherInfoPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Pages\\WeatherInfoPage1.xaml.cs",
+              "RelativeDocumentMoniker": "MauiWeatherAppJul24PatM\\Pages\\WeatherInfoPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Pages\\WeatherInfoPage1.xaml.cs",
+              "RelativeToolTip": "MauiWeatherAppJul24PatM\\Pages\\WeatherInfoPage1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:01:48.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Models\\ApiModels\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "MauiWeatherAppJul24PatM\\Models\\ApiModels\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Models\\ApiModels\\ApiResponse.cs",
+              "RelativeToolTip": "MauiWeatherAppJul24PatM\\Models\\ApiModels\\ApiResponse.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwEgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T23:16:37.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherApiService.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Services\\WeatherApiService.cs",
+              "RelativeDocumentMoniker": "MauiWeatherAppJul24PatM\\Services\\WeatherApiService.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Services\\WeatherApiService.cs",
+              "RelativeToolTip": "MauiWeatherAppJul24PatM\\Services\\WeatherApiService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T23:47:28.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherInfoPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Models\\ViewModels\\WeatherInfoPageViewModel.cs",
+              "RelativeDocumentMoniker": "MauiWeatherAppJul24PatM\\Models\\ViewModels\\WeatherInfoPageViewModel.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\MauiWeatherAppJul24PatM\\MauiWeatherAppJul24PatM\\Models\\ViewModels\\WeatherInfoPageViewModel.cs",
+              "RelativeToolTip": "MauiWeatherAppJul24PatM\\Models\\ViewModels\\WeatherInfoPageViewModel.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAewDoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:58:11.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
